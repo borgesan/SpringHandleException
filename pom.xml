@@ -4,12 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.javasampleapproach.restcontrolleradvice</groupId>
-	<artifactId>SpringRestControllerAdvice</artifactId>
+	<artifactId>SpringHandleException</artifactId>
+	<!--  <artifactId>SpringRestControllerAdvice</artifactId>-->
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>SpringRestControllerAdvice</name>
-	<description>SpringRestControllerAdvice</description>
+	<!-- <name>SpringRestControllerAdvice</name> -->
+	<name>SpringHandleException</name>
+	<description>SpringHandleException</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
